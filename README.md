@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m a autodidact improving my development skills.
+:books: I’m improving my development skills.
 
 :outbox_tray: 2021 Goals: create a new projects and find a job.
 
