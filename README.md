@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m improving my development skills.
+:books: I'm improving my development skills, currently learning ReactJS.
 
 :outbox_tray: 2021 Goals: create a new project and find a job.
 
