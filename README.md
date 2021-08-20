@@ -12,7 +12,7 @@
 
 :books: I’m improving my development skills.
 
-:outbox_tray: 2021 Goals: create a new projects and find a job.
+:outbox_tray: 2021 Goals: create a new project and find a job.
 
 ## About me
 
