@@ -21,7 +21,6 @@
 ## Languages and Tools
 
 <div align="left">
-  <a href="https://github.com/howjack" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=howjack&show_icons=true&theme=dracula&layout=compact"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula"/>
 </div>
@@ -33,4 +32,4 @@
 
 
 
-- Thanks for visiting.
+#### Thanks for visiting.
