@@ -10,9 +10,9 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I'm improving my development skills, currently learning Spring Framework.
+:books: I'm improving my development skills, currently learning React with Typescript.
 
-:outbox_tray: 2022 Goals: create a new projects and find a job.
+:outbox_tray: 2022 Goals: Find my first job as a developer.
 
 ## About me
 
