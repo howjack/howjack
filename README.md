@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I'm improving my development skills, currently learning VueJS 3.
+:books: I'm improving my development skills, currently learning VueJS 3 with Quasar.
 
 :outbox_tray: 2022 Goals: Find my first job as a developer.
 
