@@ -12,8 +12,6 @@
 
 :books: I'm improving my development skills, currently learning VueJS 3 with Quasar.
 
-:outbox_tray: 2022 Goals: Find my first job as a developer.
-
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/howjack)  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/phelipe-alves-fagundes-170817134/)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=LINK_INSTAGRAM)](https://www.instagram.com/phelipe.fagundes/)
