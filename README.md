@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I'm improving my development skills, currently learning VueJS 3 with Quasar.
+:books: I'm improving my development skills, currently learning Nuxt3 and Fastify.
 
 ## About me
 
